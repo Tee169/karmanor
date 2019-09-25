@@ -1,0 +1,196 @@
+
+    
+body {
+    margin:0;
+    padding:0;
+    background:#fff;
+    font-size:18px;
+    font-weight:300px;
+    font-family:"sans-serif";
+    
+} 
+
+header{
+    font-size:20px;
+    font-weight:300px;
+}
+
+
+
+
+
+
+#login-box{
+    position:relative;
+    margin:5% auto;
+    width:900px;
+    height:800px;
+    background:#fff;
+    box-shadow: 0 2px 2px ;
+}
+
+.left-box{
+    
+   position:absolute; 
+   top:0;
+   left:0;
+    box-sizing:border-box;
+    padding:40px;
+    width:400px;
+    height:600px;
+    
+}
+
+.fn{
+    
+    display:block;
+    box-sizing:border-box;
+    margin-bottom:40px;
+    padding:4px;
+    weight:20px;
+    font-family:"sans-serif";
+    font-weight:300px;
+    font-size:20px;
+    box-shadow:5px;
+    border-radius:5px;
+    width:150px;
+}
+
+
+
+.ln{
+    
+    display:block;
+    box-sizing:border-box;
+    margin-bottom:40px;
+    padding:4px;
+    weight:20px;
+    font-family:"sans-serif";
+    font-weight:300px;
+    font-size:20px;
+    box-shadow:5px;
+    border-radius:5px;
+    width:150px;
+    position:absolute;
+    left: 250px;
+    top:115px;
+}
+
+
+
+
+
+
+
+
+
+
+.em{
+    display:block;
+    box-sizing:border-box;
+    margin-bottom:40px;
+    padding:4px;
+    width:300px;
+    font-family:"sans-serif";
+    font-weight:400px;
+    font-size:20px;
+    box-shadow:5px;
+    border-radius:5px;
+    
+}
+ 
+ .sub{
+     margin:0;
+     width:120px;
+     height:30px;
+     background:blue;
+     border-radius:5px;
+     color:#fff;
+     font-family:"sans-serif";
+     font-weight:500px;
+     
+ }
+ 
+ h1{
+   position:absolute ;  
+   top:5px;
+ }
+  
+  .ig{
+      position:absolute;
+      top:420px;
+      left:60px;
+  }
+ 
+ .fr{
+     
+      position:absolute;
+      top:360px;
+    left:250px;
+ }
+ 
+ 
+ .ck{
+     position:absolute;
+      top:420px;
+      left:30px;
+ }
+ 
+ 
+ 
+ p{
+     position:absolute;
+      top:490px;
+      left:20px;
+ }
+ 
+ #sg{
+   
+     position:absolute;
+      top:505px;
+      left:220px;
+   
+ }
+ 
+ .right-box{
+     position:absolute ;
+     top:0;
+     right:0;
+     box-sizing:border-box ;
+     padding:40px;
+     width:400px;
+     height:800px;
+     background:blue;
+     color:#fff;
+     font-size:30px;
+     font-weight:300px;
+     
+ }
+ 
+ span{
+     
+    text-align:center ;
+ }
+ 
+ #ka{
+    position:absolute; 
+    top:150px;
+    left:150px;
+ }
+ #gt{
+    position:absolute; 
+    top:190px;
+    left:100px;
+ }
+  #go{
+    position:absolute; 
+    top:250px;
+    left:80px;
+  }  
+    
+  #zig{
+    position:absolute; 
+    top:450px;
+    left:180px;
+    font-size:15px;
+  } 
